@@ -7,4 +7,5 @@ Este repositório serve como um guia abrangente para Engenharia de Software, abo
 - Banco de Dados
 - Redes de Internet
 - Arquitetura de Software
+- Boas Práticas
 - Práticas de Desenvolvimento Ágil
